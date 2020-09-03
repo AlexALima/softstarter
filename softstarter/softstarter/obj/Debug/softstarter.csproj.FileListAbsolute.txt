@@ -1,0 +1,19 @@
+c:\users\alexandre\documents\visual studio 11\Projects\softstarter\softstarter\bin\Debug\softstarter.exe.config
+c:\users\alexandre\documents\visual studio 11\Projects\softstarter\softstarter\obj\Debug\softstarter.csprojResolveAssemblyReference.cache
+c:\users\alexandre\documents\visual studio 11\Projects\softstarter\softstarter\obj\Debug\softstarter.Properties.Resources.resources
+c:\users\alexandre\documents\visual studio 11\Projects\softstarter\softstarter\obj\Debug\softstarter.csproj.GenerateResource.Cache
+c:\users\alexandre\documents\visual studio 11\Projects\softstarter\softstarter\bin\Debug\softstarter.exe
+c:\users\alexandre\documents\visual studio 11\Projects\softstarter\softstarter\bin\Debug\softstarter.pdb
+c:\users\alexandre\documents\visual studio 11\Projects\softstarter\softstarter\obj\Debug\softstarter.exe
+c:\users\alexandre\documents\visual studio 11\Projects\softstarter\softstarter\obj\Debug\softstarter.pdb
+c:\users\alexandre\documents\visual studio 11\Projects\softstarter\softstarter\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\xandi\Documents\GitHub\softstarter\softstarter\bin\Debug\softstarter.exe.config
+C:\Users\xandi\Documents\GitHub\softstarter\softstarter\bin\Debug\softstarter.exe
+C:\Users\xandi\Documents\GitHub\softstarter\softstarter\bin\Debug\softstarter.pdb
+C:\Users\xandi\Documents\GitHub\softstarter\softstarter\obj\Debug\softstarter.csprojAssemblyReference.cache
+C:\Users\xandi\Documents\GitHub\softstarter\softstarter\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\xandi\Documents\GitHub\softstarter\softstarter\obj\Debug\softstarter.Properties.Resources.resources
+C:\Users\xandi\Documents\GitHub\softstarter\softstarter\obj\Debug\softstarter.csproj.GenerateResource.cache
+C:\Users\xandi\Documents\GitHub\softstarter\softstarter\obj\Debug\softstarter.csproj.CoreCompileInputs.cache
+C:\Users\xandi\Documents\GitHub\softstarter\softstarter\obj\Debug\softstarter.exe
+C:\Users\xandi\Documents\GitHub\softstarter\softstarter\obj\Debug\softstarter.pdb
